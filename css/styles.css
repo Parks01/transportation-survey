@@ -1,0 +1,11 @@
+img{
+  height: 100px;
+  width: 150px;
+}
+input[type="checkbox"] {
+  transform:scale(2, 2);
+  padding-right: 10px;
+}
+span{
+  font-size: 20px;
+}
